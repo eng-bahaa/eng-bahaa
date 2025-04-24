@@ -1,7 +1,7 @@
 # Bahaeldin AhmedAwad
 📍 Seattle, Washington USA  | 📧 bahaa.ahmed.eng@gmial.com | 🔗 [LinkedIn](https://linkedin.com/in/johndoe) | � [GitHub](https://github.com/eng-bahaa)  
 
-### Software Engineer (Java | Spring | ReactJS)**  
+### Software Engineer (Java | Spring | ReactJS)
 Experienced **Full-Stack Developer** with **5+ years** of expertise in **Java, Spring Boot, Microservices, and ReactJS**. Passionate about building scalable, high-performance applications with clean architecture and modern DevOps practices.  
 
 ---
