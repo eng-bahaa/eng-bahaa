@@ -59,7 +59,7 @@ Experienced **Full-Stack Developer** with **5+ years** of expertise in **Java, S
 ---
 
 ## **📬 Contact Me**  
-- **Email**: [john.doe@example.com](mailto:john.doe@example.com)  
+- **Email**: [bahaa.ahmed.eng@gmail.com](mailto:bahaa.ahmed.eng@gmail.com.com)  
 - **LinkedIn**: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)  
-- **Portfolio**: [johndoe.dev](https://johndoe.dev)  
+- **Portfolio**: [Eng Bahaeldin](https://johndoe.dev)  
 - **Resume**: [Download PDF](https://johndoe.dev/resume.pdf)  
