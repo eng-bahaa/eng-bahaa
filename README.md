@@ -50,7 +50,7 @@ Experienced **Full-Stack Developer** with **5+ years** of expertise in **Java, S
 
 ## **🎓 Education**  
 **Bachelor of Computer Science**  
-[University of Tech](https://university.tech) *(2017 – 2021)*  
+[Cairo University](https://university.tech) *(2017 – 2021)*  
 
 ## **📜 Certifications**  
 - **AWS Certified Developer – Associate** *(2023)*  
