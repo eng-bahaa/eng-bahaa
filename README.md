@@ -53,13 +53,13 @@ Experienced **Full-Stack Developer** with **5+ years** of expertise in **Java, S
 [Cairo University](https://university.tech) *(2017 – 2021)*  
 
 ## **📜 Certifications**  
-- **AWS Certified Developer – Associate** *(2023)*  
+- **AWS Certified Developer – Associate** *(2022)*  
 - **Oracle Certified Professional: Java SE 11 Developer** *(2022)*  
 
 ---
 
 ## **📬 Contact Me**  
 - **Email**: [bahaa.ahmed.eng@gmail.com](mailto:bahaa.ahmed.eng@gmail.com.com)  
-- **LinkedIn**: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)  
+- **LinkedIn**: [linkedin.com/in/bahaeldin](https://linkedin.com/in/johndoe)  
 - **Portfolio**: [Eng Bahaeldin](https://johndoe.dev)  
 - **Resume**: [Download PDF](https://johndoe.dev/resume.pdf)  
