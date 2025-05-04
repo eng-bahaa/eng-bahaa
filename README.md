@@ -60,6 +60,6 @@ Experienced **Full-Stack Developer** with **5+ years** of expertise in **Java, S
 
 ## **📬 Contact Me**  
 - **Email**: [bahaa.ahmed.eng@gmail.com](mailto:bahaa.ahmed.eng@gmail.com.com)  
-- **LinkedIn**: [linkedin.com/in/bahaeldin](https://linkedin.com/in/johndoe)  
+- **LinkedIn**: [linkedin.com/in/bahaeldin](https://linkedin.com/in/bahaeldin)  
 - **Portfolio**: [Eng Bahaeldin](https://bahaeldin.dev)  
 - **Resume**: [Download PDF](https://bahaeldin.dev/resume.pdf)  
