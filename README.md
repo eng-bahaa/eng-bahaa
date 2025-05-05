@@ -24,7 +24,7 @@ Experienced **Full-Stack Developer** with **5+ years** of expertise in **Java, S
 ---
 
 ## **💼 Professional Experience**  
-### **Senior Software Engineer** @ [Tech Solutions Inc.](https://techsolutions.com) *(Jan 2021 – Present)*  
+### **Junior Software Engineer** @ [Tech Solutions Inc.](https://techsolutions.com) *(Jan 2021 – Present)*  
 - Developed and maintained **microservices** using **Spring Boot**, improving API response time by **40%**.  
 - Built a **ReactJS dashboard** with real-time analytics, reducing manual reporting efforts by **60%**.  
 - Integrated **Kafka** for event-driven communication between services.  
