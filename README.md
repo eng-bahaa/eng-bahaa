@@ -30,7 +30,7 @@ Experienced **Full-Stack Developer** with **5+ years** of expertise in **Java, S
 - Integrated **Kafka** for event-driven communication between services.  
 - Mentored **3 junior developers** in best practices for **clean code and testing**.  
 
-### **Software Engineer** @ [DevSoft Corp.](https://devsoft.com) *(Jun 2011 – Dec 2022)*  
+### **Software Engineer** @ [DevSoft Corp.](https://devsoft.com) *(Jun 2011 – Dec 2023)*  
 - Designed RESTful APIs using **Spring Boot & JPA**, serving **10K+ daily requests**.  
 - Optimized SQL queries, reducing database latency by **30%**.  
 - Collaborated with frontend teams to implement **ReactJS components** with **Redux state management**.  
