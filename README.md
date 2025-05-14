@@ -44,7 +44,11 @@ Experienced **Full-Stack Developer** with **5+ years** of expertise in **Java, S
 
 ### **2. Task Management System (Microservices + Kafka)** | [GitHub Repo](https://github.com/johndoe/task-manager)  
 - Distributed task management system using **Spring Cloud, Kafka, and React**.  
-- **Features**: Real-time notifications, role-based access control.  
+- **Features**: Real-time notifications, role-based access control. 
+
+### **3. Management System (Microservices + Kafka)** | [GitHub Repo](https://github.com/johndoe/task-manager)  
+- Distributed task management system using **Spring Cloud, Kafka, and React**.  
+- **Features**: Real-time notifications, role-based access control. 
 
 ---
 
