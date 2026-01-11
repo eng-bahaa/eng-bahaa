@@ -1,6 +1,7 @@
 # Bahaeldin AhmedAwad
 📍 Seattle, Washington USA  | 📧 bahaa.ahmed.eng@gmial.com | 🔗 [LinkedIn](https://linkedin.com/in/johndoe) | � [GitHub](https://github.com/eng-bahaa)  
 
+<!--
 ### Software Engineer (Java | Spring | ReactJS)
 Experienced **Full-Stack Developer** with **5+ years** of expertise in **Java, Spring Boot, Microservices, and ReactJS**. Passionate about building scalable, high-performance applications with clean architecture and modern DevOps practices.  
 
@@ -28,6 +29,8 @@ Experienced **Full-Stack Developer** with **5+ years** of expertise in **Java, S
 - Developed and maintained **microservices** using **Spring Boot**, improving API response time by **40%**.  
 - Built a **ReactJS dashboard** with real-time analytics, reducing manual reporting efforts by **60%**.  
 - Integrated **Kafka** for event-driven communication between services.  
+
+<--
 - Mentored **3 junior developers** in best practices for **clean code and testing**.  
 
 ### **Software Engineer** @ [DevSoft Corp.](https://devsoft.com) *(Jun 2011 – Dec 2023)*  
@@ -61,6 +64,7 @@ Experienced **Full-Stack Developer** with **5+ years** of expertise in **Java, S
 - **Oracle Certified Professional: Java SE 11 Developer** *(2022)*  
 
 ---
+-->
 
 ## **📬 Contact Me**  
 - **Portfolio**: [Eng Bahaeldin](https://bahaeldin.publicvm.com) 
